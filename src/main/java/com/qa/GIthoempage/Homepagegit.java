@@ -1,5 +1,11 @@
 package com.qa.GIthoempage;
 
-public class Homepagegit {
+import com.qa.TestbaseGit.testbasegit;
+
+public class Homepagegit  {
+	
+	public void HitHompage() {
+		System.out.println("Display Home Page");
+	}
 
 }
